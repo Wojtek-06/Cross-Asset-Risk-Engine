@@ -3,7 +3,7 @@ A high-performance C++ quantitative finance library for derivative pricing, port
 ---
 ## Project structure
 <img width="415" height="647" alt="Project structure" src="https://github.com/user-attachments/assets/711e8a72-af0a-4e51-bf0f-21d1b10a9b2f" />
----
+
 ## Overview
 This is a quantative finance library that is designed to provide fast, accurate and extensible pricing and risk analytics for financial instruments. It combines analytical pricing models, the Monte Carlo simulation and fixed-income valuations and risk sensitivities. It is implemented in C++ and exposed through python bindings using pybind11.
 ---
