@@ -12,7 +12,7 @@ This is a quantative finance library that is designed to provide fast, accurate 
 - CMake
 - C++20 compatible compiler (Visual Studio Build Tools, GCC, or Clang)
 - Git
-- 
+
 ## Getting Started
 Clone the repository:
 
