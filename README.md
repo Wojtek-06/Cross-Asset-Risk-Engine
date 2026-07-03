@@ -2,7 +2,6 @@
 A high-performance C++ quantitative finance library for derivative pricing, portfolio risk analysis, Monte Carlo simulation, and fixed-income analytics with seamless Python integration.
 ---
 ## Project structure
-
 <img width="415" height="647" alt="Project structure" src="https://github.com/user-attachments/assets/711e8a72-af0a-4e51-bf0f-21d1b10a9b2f" />
 
 ## Overview
