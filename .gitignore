@@ -1,0 +1,51 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python packaging
+*.egg-info/
+dist/
+
+# ==========================
+# CMake
+# ==========================
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+Makefile
+
+# ==========================
+# Visual Studio
+# ==========================
+.vs/
+*.VC.db
+*.VC.opendb
+*.sln
+*.vcxproj.user
+
+# ==========================
+# Benchmark output
+# ==========================
+benchmark_results/
+
+# ==========================
+# IDE
+# ==========================
+.vscode/
+.idea/
+
+# ==========================
+# OS
+# ==========================
+.DS_Store
+Thumbs.db
