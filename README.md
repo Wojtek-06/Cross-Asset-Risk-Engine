@@ -49,10 +49,7 @@ This project separates the numerical models from the python interface, the compu
 ---
 ## Mathematical Models
 
-├── Black-Scholes 
-├── Greeks
-├── Monte Carlo
-└── Fixed Income
+<img width="212" height="147" alt="image" src="https://github.com/user-attachments/assets/166e4ac8-7a64-4afa-a4a4-cdd77eb03066" />
 
 ### Black-Scholes
 Calculates the theoretical fair market price for European stock options, it provides a closed form benchmark to validate our more complex simulation models
