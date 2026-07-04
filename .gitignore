@@ -1,69 +1,51 @@
-# Prerequisites
-*.d
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+.pytest_cache/
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# Virtual environments
+.venv/
+venv/
+env/
 
-# Precompiled Headers
-*.gch
-*.pch
+# Python packaging
+*.egg-info/
+dist/
 
-# Linker files
-*.ilk
-
-# Debugger Files
-*.pdb
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-*.so.*
-
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
-
-# Build directories
+# ==========================
+# CMake
+# ==========================
 build/
-Build/
-build-*/
-
-# CMake generated files
 CMakeFiles/
 CMakeCache.txt
 cmake_install.cmake
-Makefile
-install_manifest.txt
 compile_commands.json
+Makefile
 
-# Temporary files
-*.tmp
-*.log
-*.bak
-*.swp
+# ==========================
+# Visual Studio
+# ==========================
+.vs/
+*.VC.db
+*.VC.opendb
+*.sln
+*.vcxproj.user
 
-# vcpkg
-vcpkg_installed/
+# ==========================
+# Benchmark output
+# ==========================
+benchmark_results/
 
-# debug information files
-*.dwo
+# ==========================
+# IDE
+# ==========================
+.vscode/
+.idea/
 
-# test output & cache
-Testing/
-.cache/
+# ==========================
+# OS
+# ==========================
+.DS_Store
+Thumbs.db
